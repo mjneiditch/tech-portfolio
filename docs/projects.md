@@ -3,12 +3,10 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+DuckDuckGo Integration Test
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+A PyTest module that queries the DuckDuckGo api for “presidents of the united states,” and 
+tests that each president is listed in the response.
+Implements Travis for continuous integraiton.
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
+![duckduckgo_integration_test](./assets/duckduckgo_integration_test.png)
